@@ -10,10 +10,10 @@
 
 ### Diagrama UML do projeto
 
-<img title="Diagrama" src="assets/diagrama.png" alt="" width="600px"><br>
+<img title="Diagrama" src="assets/diagrama.png" alt="" width="800px"><br>
 *Modelo Criado no draw.io*
 
-### Implementando classe e interfazer 
+### Implementando classe e interface 
 Foi criado as três classe para cada função do aparelho. Resolvi adcionar uma classe Sistema operacional para implementar e controlar os aplicativos.
 
 
